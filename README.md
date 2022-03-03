@@ -73,7 +73,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
    # License 
    This project is licensed under the MIT license.
    
-   ![GitHub licence](https://img.shields.io/github/license/htariku/Professional-README-Generator)
+   [GitHub licence](https://img.shields.io/github/license/htariku/Professional-README-Generator)
  
    ## Contributors 
    Contributors: Helen Tariku
