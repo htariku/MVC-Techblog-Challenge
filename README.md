@@ -58,7 +58,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
    # Table of Content: 
    ## [Installation](#Installation)
-   ## [Usage](#Usage)
    ## [License](#License)
    ## [Contributors](#Contributors)
    ## [Questions](#Questions)
