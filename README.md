@@ -7,6 +7,9 @@ https://github.com/htariku/MVC-Techblog-Challenge
 ## url link: 
 https://htariku.github.io/MVC-Techblog-Challenge/
 
+## Heroku Link 
+https://mcv-techblog-challenge.herokuapp.com/
+
 
  
    # Description
